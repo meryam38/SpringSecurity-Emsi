@@ -11,7 +11,7 @@ Ce projet illustre plusieurs concepts clés de **Spring Security** :
 - ✅ Authentification sans état (**Stateless**) avec **JWT**
 - ✅ Gestion des rôles (**ADMIN**, **USER**)
 - ✅ Configuration de la **Security Filter Chain**
-- ✅ Intégration de **OAuth2**
+  
 
 ---
 
